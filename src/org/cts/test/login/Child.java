@@ -17,6 +17,7 @@ public class Child extends Schoolmate{
 		c.kumar();
 		c.green();
 		c.technology();
+		System.out.println("i have modified the code");
 	}
 
 }
